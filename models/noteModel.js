@@ -1,7 +1,7 @@
 const mongoose=require('mongoose')
 
 const notesSchema={
-    cusName:String,
+    cusname:String,
     address:String,
     phone:Number,
     naam:String
